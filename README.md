@@ -2,4 +2,4 @@
 
 ## Consuming a Web API with Refit library
 
-![cep-refit-sample](cep-refit-sample.png)
+![cep-refit-sample](image.png)
